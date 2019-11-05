@@ -1,3 +1,3 @@
 'use strick'
 
-alert("hello")
+// alert("hello")
